@@ -1,3 +1,12 @@
+"""
+title: Chat with differents AI through 1min.ai API
+author: Tangi Curet
+author_url: https://github.com/bzhtech/1minai
+author_linkedin: https://www.linkedin.com/in/tangi-curet-4032485b
+funding_url: https://github.com/open-webui
+version: 0.0.1
+"""
+
 from pydantic import BaseModel, Field
 import requests
 from typing import Optional, Union, Generator, Iterator, List, Dict
